@@ -1,0 +1,735 @@
+{
+  "accounts": [
+    {
+      "rate": 2.5,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm2snirr8ke8",
+      "type": "bank",
+      "name": "SBI Salary A/C",
+      "last": "5502",
+      "balance": 1948.6999999999998
+    },
+    {
+      "rate": 0,
+      "limit": 333000,
+      "available": 328061,
+      "emi": 0,
+      "day": null,
+      "billDay": 13,
+      "dueDay": 3,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm2x1g7707hq",
+      "type": "card",
+      "name": "SBI BPCL",
+      "last": "2485",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 55000,
+      "available": 33001,
+      "emi": 0,
+      "day": null,
+      "billDay": 23,
+      "dueDay": 9,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm2yyk3j28iu",
+      "type": "card",
+      "name": "Axis Bank Priveledge",
+      "last": "9958",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 383000,
+      "available": 375609,
+      "emi": 0,
+      "day": null,
+      "billDay": 14,
+      "dueDay": 4,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm308gikm3m4",
+      "type": "card",
+      "name": "Yes Bank Kiwi",
+      "last": "8884",
+      "balance": 0
+    },
+    {
+      "rate": 12.4,
+      "limit": 0,
+      "available": 0,
+      "emi": 14820,
+      "day": 15,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm31jq2v6a0a",
+      "type": "loan",
+      "name": "SBI Personal Loan",
+      "last": "9673",
+      "balance": 516991
+    },
+    {
+      "rate": 13.5,
+      "limit": 0,
+      "available": 0,
+      "emi": 3465,
+      "day": 3,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm32p0b3xygy",
+      "type": "loan",
+      "name": "IDFC First Bank",
+      "last": "0001",
+      "balance": 32530
+    },
+    {
+      "rate": 13.5,
+      "limit": 0,
+      "available": 0,
+      "emi": 4536,
+      "day": 3,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm33dik7sikp",
+      "type": "loan",
+      "name": "IDFC First Bank",
+      "last": "0002",
+      "balance": 54419
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm34c910a9rw",
+      "type": "cash",
+      "name": "नकद",
+      "last": "",
+      "balance": 2270
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm34wweiv1m7",
+      "type": "category",
+      "name": "दूध",
+      "last": "",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm35603yvyb9",
+      "type": "category",
+      "name": "पान मसाला",
+      "last": "",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm35g3q8gjqi",
+      "type": "category",
+      "name": "दवाइयां",
+      "last": "",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": 1,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm3ck5iztpog",
+      "type": "loan",
+      "name": "Mami",
+      "last": "0001",
+      "balance": 50000
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": 1,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm3d3cc6k4na",
+      "type": "loan",
+      "name": "Sandeep Verma",
+      "last": "0002",
+      "balance": 23000
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm4fktkghaz3",
+      "type": "category",
+      "name": "बिजली बिल",
+      "last": "",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm4fzypi5khp",
+      "type": "category",
+      "name": "बेबी डायपर",
+      "last": "",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm4gauns8bvl",
+      "type": "category",
+      "name": "बेबी वाइप्स",
+      "last": "",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm4glrzc312y",
+      "type": "category",
+      "name": "फॉर्मूला मिल्क",
+      "last": "",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm4gziruqdcg",
+      "type": "category",
+      "name": "बेबी क्लाथ",
+      "last": "",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm4hc0awlmy5",
+      "type": "category",
+      "name": "बेबी टॉय 🧸",
+      "last": "",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvm4hxnhzwi20",
+      "type": "category",
+      "name": "बेबी (तेल शैम्पू वाश)",
+      "last": "",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvo134qjkc7x0",
+      "type": "category",
+      "name": "किराना",
+      "last": "",
+      "balance": 0
+    },
+    {
+      "rate": 0,
+      "limit": 0,
+      "available": 0,
+      "emi": 0,
+      "day": null,
+      "billDay": null,
+      "dueDay": null,
+      "maturity": "",
+      "rdEmi": 0,
+      "id": "mvo13k75b2lhl",
+      "type": "category",
+      "name": "निधी पर्सनल",
+      "last": "",
+      "balance": 0
+    }
+  ],
+  "txns": [
+    {
+      "id": "mvm36telpntqp",
+      "type": "expense",
+      "amount": 30,
+      "date": "2026-10-23",
+      "desc": "पान मसाला",
+      "note": "",
+      "accountId": "mvm2snirr8ke8",
+      "categoryId": "mvm35603yvyb9",
+      "method": "bank",
+      "changes": [
+        {
+          "id": "mvm2snirr8ke8",
+          "field": "balance",
+          "delta": -30
+        }
+      ]
+    },
+    {
+      "id": "mvm37zjxnb0ij",
+      "type": "expense",
+      "amount": 200,
+      "date": "2026-10-23",
+      "desc": "दवाइयां",
+      "note": "Nebulizer Ampule",
+      "accountId": "mvm308gikm3m4",
+      "categoryId": "mvm35g3q8gjqi",
+      "method": "card",
+      "changes": [
+        {
+          "id": "mvm308gikm3m4",
+          "field": "available",
+          "delta": -200
+        }
+      ]
+    },
+    {
+      "id": "mvm38vrmkdxyk",
+      "type": "expense",
+      "amount": 140,
+      "date": "2026-10-23",
+      "desc": "दवाइयां",
+      "note": "Asthakind montair lc",
+      "accountId": "mvm308gikm3m4",
+      "categoryId": "mvm35g3q8gjqi",
+      "method": "card",
+      "changes": [
+        {
+          "id": "mvm308gikm3m4",
+          "field": "available",
+          "delta": -140
+        }
+      ]
+    },
+    {
+      "id": "mvm39t58nmdx4",
+      "type": "expense",
+      "amount": 60,
+      "date": "2026-10-23",
+      "desc": "दूध",
+      "note": "",
+      "accountId": "mvm308gikm3m4",
+      "categoryId": "mvm34wweiv1m7",
+      "method": "card",
+      "changes": [
+        {
+          "id": "mvm308gikm3m4",
+          "field": "available",
+          "delta": -60
+        }
+      ]
+    },
+    {
+      "id": "mvm3am7knj9rt",
+      "type": "expense",
+      "amount": 84,
+      "date": "2026-10-23",
+      "desc": "दवाइयां",
+      "note": "Fluconazol Multivitamin",
+      "accountId": "mvm308gikm3m4",
+      "categoryId": "mvm35g3q8gjqi",
+      "method": "card",
+      "changes": [
+        {
+          "id": "mvm308gikm3m4",
+          "field": "available",
+          "delta": -84
+        }
+      ]
+    },
+    {
+      "id": "mvm3b9c1ueh2m",
+      "type": "expense",
+      "amount": 65,
+      "date": "2026-10-23",
+      "desc": "पान मसाला",
+      "note": "",
+      "accountId": "mvm34c910a9rw",
+      "categoryId": "mvm35603yvyb9",
+      "method": "cash",
+      "changes": [
+        {
+          "id": "mvm34c910a9rw",
+          "field": "balance",
+          "delta": -65
+        }
+      ]
+    },
+    {
+      "id": "mvmk2teouaxox",
+      "type": "expense",
+      "amount": 80,
+      "date": "2026-10-24",
+      "desc": "दूध",
+      "note": "",
+      "accountId": "mvm308gikm3m4",
+      "categoryId": "mvm34wweiv1m7",
+      "method": "card",
+      "changes": [
+        {
+          "id": "mvm308gikm3m4",
+          "field": "available",
+          "delta": -80
+        }
+      ]
+    },
+    {
+      "id": "mvn8okofo2mey",
+      "type": "bankwithdraw",
+      "amount": 2000,
+      "date": "2026-10-24",
+      "desc": "ATM / बैंक से नकद निकासी",
+      "note": "",
+      "accountId": "mvm2snirr8ke8",
+      "categoryId": null,
+      "method": null,
+      "changes": [
+        {
+          "id": "mvm2snirr8ke8",
+          "field": "balance",
+          "delta": -2000
+        },
+        {
+          "id": "mvm34c910a9rw",
+          "field": "balance",
+          "delta": 2000
+        }
+      ]
+    },
+    {
+      "id": "mvn8phuelvmuh",
+      "type": "expense",
+      "amount": 460,
+      "date": "2026-10-24",
+      "desc": "दवाइयां",
+      "note": "Aadvik",
+      "accountId": "mvm34c910a9rw",
+      "categoryId": "mvm35g3q8gjqi",
+      "method": "cash",
+      "changes": [
+        {
+          "id": "mvm34c910a9rw",
+          "field": "balance",
+          "delta": -460
+        }
+      ]
+    },
+    {
+      "id": "mvn8qbo2yf8cw",
+      "type": "expense",
+      "amount": 500,
+      "date": "2026-10-25",
+      "desc": "दवाइयां",
+      "note": "कल्पना पांडेय फीस",
+      "accountId": "mvm34c910a9rw",
+      "categoryId": "mvm35g3q8gjqi",
+      "method": "cash",
+      "changes": [
+        {
+          "id": "mvm34c910a9rw",
+          "field": "balance",
+          "delta": -500
+        }
+      ]
+    },
+    {
+      "id": "mvn8t62kpfoop",
+      "type": "expense",
+      "amount": 1100,
+      "date": "2026-10-24",
+      "desc": "दवाइयां",
+      "note": "मेडिसिन",
+      "accountId": "mvm308gikm3m4",
+      "categoryId": "mvm35g3q8gjqi",
+      "method": "card",
+      "changes": [
+        {
+          "id": "mvm308gikm3m4",
+          "field": "available",
+          "delta": -1100
+        }
+      ]
+    },
+    {
+      "id": "mvn8unby5tppq",
+      "type": "expense",
+      "amount": 1500,
+      "date": "2026-10-24",
+      "desc": "दवाइयां",
+      "note": "Nidhi medicine",
+      "accountId": "mvm34c910a9rw",
+      "categoryId": "mvm35g3q8gjqi",
+      "method": "cash",
+      "changes": [
+        {
+          "id": "mvm34c910a9rw",
+          "field": "balance",
+          "delta": -1500
+        }
+      ]
+    },
+    {
+      "id": "mvnkahikwwne0",
+      "type": "cardwithdraw",
+      "amount": 1000,
+      "date": "2026-10-25",
+      "desc": "क्रेडिट कार्ड से नकद निकासी",
+      "note": "",
+      "accountId": "mvm308gikm3m4",
+      "categoryId": null,
+      "method": null,
+      "changes": [
+        {
+          "id": "mvm308gikm3m4",
+          "field": "available",
+          "delta": -1000
+        },
+        {
+          "id": "mvm34c910a9rw",
+          "field": "balance",
+          "delta": 1000
+        }
+      ]
+    },
+    {
+      "id": "mvnkb9sghgbup",
+      "type": "cardwithdraw",
+      "amount": 1000,
+      "date": "2026-10-25",
+      "desc": "क्रेडिट कार्ड से नकद निकासी",
+      "note": "",
+      "accountId": "mvm2yyk3j28iu",
+      "categoryId": null,
+      "method": null,
+      "changes": [
+        {
+          "id": "mvm2yyk3j28iu",
+          "field": "available",
+          "delta": -1000
+        },
+        {
+          "id": "mvm34c910a9rw",
+          "field": "balance",
+          "delta": 1000
+        }
+      ]
+    },
+    {
+      "id": "mvo19rbwbj6ag",
+      "type": "expense",
+      "amount": 40,
+      "date": "2026-10-25",
+      "desc": "किराना",
+      "note": "नारियल बुरादा",
+      "accountId": "mvm2snirr8ke8",
+      "categoryId": "mvo134qjkc7x0",
+      "method": "bank",
+      "changes": [
+        {
+          "id": "mvm2snirr8ke8",
+          "field": "balance",
+          "delta": -40
+        }
+      ]
+    },
+    {
+      "id": "mvo1b1jpt588c",
+      "type": "expense",
+      "amount": 60,
+      "date": "2026-10-25",
+      "desc": "दूध",
+      "note": "",
+      "accountId": "mvm308gikm3m4",
+      "categoryId": "mvm34wweiv1m7",
+      "method": "card",
+      "changes": [
+        {
+          "id": "mvm308gikm3m4",
+          "field": "available",
+          "delta": -60
+        }
+      ]
+    },
+    {
+      "id": "mvo1bz0bfyb9y",
+      "type": "expense",
+      "amount": 50,
+      "date": "2026-10-25",
+      "desc": "बेबी क्लाथ",
+      "note": "मोजा",
+      "accountId": "mvm34c910a9rw",
+      "categoryId": "mvm4gziruqdcg",
+      "method": "cash",
+      "changes": [
+        {
+          "id": "mvm34c910a9rw",
+          "field": "balance",
+          "delta": -50
+        }
+      ]
+    },
+    {
+      "id": "mvo1cpit7pup9",
+      "type": "expense",
+      "amount": 50,
+      "date": "2026-10-25",
+      "desc": "किराना",
+      "note": "आंवला",
+      "accountId": "mvm34c910a9rw",
+      "categoryId": "mvo134qjkc7x0",
+      "method": "cash",
+      "changes": [
+        {
+          "id": "mvm34c910a9rw",
+          "field": "balance",
+          "delta": -50
+        }
+      ]
+    },
+    {
+      "id": "mvo1d16zdi5tc",
+      "type": "expense",
+      "amount": 30,
+      "date": "2026-10-25",
+      "desc": "पान मसाला",
+      "note": "",
+      "accountId": "mvm34c910a9rw",
+      "categoryId": "mvm35603yvyb9",
+      "method": "cash",
+      "changes": [
+        {
+          "id": "mvm34c910a9rw",
+          "field": "balance",
+          "delta": -30
+        }
+      ]
+    },
+    {
+      "id": "mvo1en3os4er5",
+      "type": "expense",
+      "amount": 366,
+      "date": "2026-10-25",
+      "desc": "निधी पर्सनल",
+      "note": "शैंपू+",
+      "accountId": "mvm2yyk3j28iu",
+      "categoryId": "mvo13k75b2lhl",
+      "method": "card",
+      "changes": [
+        {
+          "id": "mvm2yyk3j28iu",
+          "field": "available",
+          "delta": -366
+        }
+      ]
+    }
+  ],
+  "monthlyIncomeTarget": 39692,
+  "monthDays": 30
+}
